@@ -10,4 +10,9 @@ public class Test
       System.err.println("m2()");
    }
 
+   public void m3()
+   {
+      
+   }
+
 }
