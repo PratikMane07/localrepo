@@ -13,6 +13,7 @@ public class Test
    public void m3()
    {
       System.out.println("Hii");
+      System.out.println("hello");
    }
 
 
