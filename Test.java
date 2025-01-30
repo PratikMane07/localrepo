@@ -2,9 +2,12 @@ public class Test
 {
    public void m1()
    {
-          sop("Hello world");
+          System.out.println("Hello world");
    }
 
-
+   public void m2()
+   {
+      System.err.println("m2()");
+   }
 
 }
